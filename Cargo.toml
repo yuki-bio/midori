@@ -1,0 +1,9 @@
+[package]
+name = "midori"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bio = "1.6.0"
+clap = "4.5.7"
+indicatif = "0.17.8"
